@@ -30,7 +30,7 @@ nest_asyncio.apply()
 # =======================
 # 🔑 ORS API KEY
 # =======================
-ORS_API_KEY = "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImRkMzY1ZGQ0YzU2ZTRmYjg5NTc2MzdmOGQ1ZTE4YTg2IiwiaCI6Im11cm11cjY0In0="
+ORS_API_KEY = "enter key"
 client = openrouteservice.Client(key=ORS_API_KEY)
 
 # =======================
